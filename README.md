@@ -128,10 +128,3 @@ This project is licensed under the MIT License.
 Developed as a focused exercise in low-level image processing and optimization.
 
 ---
-
-Let me know if you'd like to include:
-- A ready-made `main.c` usage file,
-- Image format converters for BMP/PNG,
-- CLI argument parsing for a full tool,
-- Or a sample image test suite in the README.
-```
