@@ -95,14 +95,6 @@ Backtracks from the minimum in the bottom row to construct the path of least cum
 
 Constructs a new image by copying all pixels **except** those on the seam.
 
-## 📁 Example Output
-
-Before:
-![Before](https://via.placeholder.com/240x180.png?text=Input+Image)
-
-After 10 seam removals:
-![After](https://via.placeholder.com/200x180.png?text=Resized+Image)
-
 ## 🧼 Memory Management
 
 All dynamically allocated resources (raster buffers, paths, energy maps) must be freed properly to avoid memory leaks.
